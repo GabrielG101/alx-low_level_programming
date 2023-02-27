@@ -3,3 +3,5 @@
 1-swap.c = function that swaps the values of two integers.
 
 2-strlen.c = function that returns the length of a string.
+
+3-puts.c = function that prints a string, followed by a new line, to stdout.
