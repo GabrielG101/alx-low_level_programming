@@ -1,8 +1,9 @@
 #include <stdio.h>
 
 /**
- * main - Prints alphabet lowercase
- * Return: Always 0
+ * main - prints the alphabet in lowercase,
+ * followed by a new line
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
