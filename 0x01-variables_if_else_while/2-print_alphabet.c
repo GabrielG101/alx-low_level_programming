@@ -1,18 +1,17 @@
 #include <stdio.h>
+
 /**
  * main - Prints alphabet lowercase
  * Return: Always 0
  */
 int main(void)
 {
-	int n = 97;
+	char ch;
 
-	while (n <= 122);
+	for (ch = 'a'; ch <= 'z'; ch++)
 	{
-		putchar(n);
-		n++;
+		putchar(ch);
 	}
 	putchar('\n');
-
 	return (0);
 }
